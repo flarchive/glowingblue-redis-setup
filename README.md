@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of glowingblue/redis-setup.** Not for installation: use [Packagist](https://packagist.org/packages/glowingblue/redis-setup) or the [upstream repository](https://github.com/glowingblue/flarum-ext-redis-setup).
 
-**0** versions archived · Latest: [`1.3.2`](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.3.2) · License: `MIT` · Flarum: `^1.8.5`
+**11** versions archived · Latest: [`1.3.2`](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.3.2) · License: `MIT` · Flarum: `^1.8.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-05-31 | `^1.0.0` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-05-31 | `^1.0.0` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-06-25 | `^1.0.0` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.0.2) |
+| `1.0.3` | 2021-07-05 | `^1.0.4` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.0.3) |
+| `1.0.4` | 2022-03-29 | `^1.0.4` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.0.4) |
+| `1.2.0` | 2022-04-26 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.2.0) |
+| `1.2.1` | 2023-08-09 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.2.1) |
+| `1.2.2` | 2024-01-31 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.2.2) |
+| `1.3.0` | 2025-10-10 | `^1.8.5` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.3.0) |
+| `1.3.1` | 2025-11-18 | `^1.8.5` | [Browse](https://github.com/flarchive/glowingblue-redis-setup/tree/archive/v1.3.1) |
+
+[View all 11 versions](https://github.com/flarchive/glowingblue-redis-setup/tags)
 
 Catalog entry: [packages/glowingblue-redis-setup.json](https://github.com/flarchive/archive-index/blob/main/packages/glowingblue-redis-setup.json)
 
